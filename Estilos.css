@@ -27,8 +27,8 @@ header .logo
 header .redes
 {
 
-    text-align: center;
-    margin-bottom: 40px;
+    display: center;
+   
     
 }
 
