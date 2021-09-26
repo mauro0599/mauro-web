@@ -26,9 +26,9 @@ header .logo
 }
 header .redes
 {
-    display: flex;
+    
     justify-content: center;
-    flex-wrap: wrap;
+    
     
 }
 
