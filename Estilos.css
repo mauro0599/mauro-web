@@ -29,7 +29,7 @@ header .redes
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    width: calc(33.333333333% - 20px);
+    
 }
 
 header .logo p 
